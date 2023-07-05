@@ -1,3 +1,2 @@
-pandas
-altair
-streamlit
+numpy
+matplotlib
